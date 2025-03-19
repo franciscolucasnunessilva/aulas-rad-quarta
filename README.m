@@ -1,1 +1,0 @@
-echo # aulas-rad-quarta
